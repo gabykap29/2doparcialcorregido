@@ -13,6 +13,7 @@
             nombre.value = data.nombre;
             apellido.value = data.apellido;
             codigo.value = data.codigo
+            console.log(nombre, apellido, codigo)
         })
 
 
